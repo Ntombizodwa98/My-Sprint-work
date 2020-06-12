@@ -29,6 +29,6 @@ while playing:
         playing = False
 #if the user doesn't wanna play
 else:
-    #exit
+    #exit the game
     print("Thank you for playing!!")
     
